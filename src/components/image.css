@@ -1,0 +1,12 @@
+.image img {
+  height: 100px;
+  margin: 5px;
+  border-radius: 10px;
+  filter: brightness(50%);
+}
+
+
+.selected {
+  filter: brightness(250%);
+  transition-duration: 0.1s;
+}
